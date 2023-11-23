@@ -1,0 +1,7 @@
+<JD119_Director_Type_94.model>
+	<castsShadow>	false	</castsShadow>
+	<parent>	PnFMods/ARP_Hyuga_Mod/JSB526_Ise/director/lods/JD119_Director_Type_94_lod1	</parent>
+	<extent>	4.0000	</extent>
+	<nodefullVisual>	PnFMods/ARP_Hyuga_Mod/JSB526_Ise/director/JD119_Director_Type_94	</nodefullVisual>
+	<metaData>	Wargaming | Lesta Studio	</metaData>
+</JD119_Director_Type_94.model>

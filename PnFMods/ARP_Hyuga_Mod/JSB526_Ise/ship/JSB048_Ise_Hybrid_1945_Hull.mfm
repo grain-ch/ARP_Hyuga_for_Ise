@@ -1,0 +1,40 @@
+<JSB048_Ise_Hybrid_1945_Hull.mfm>
+	<fx>	shaders/materials/pbs/ship_emissive_material.fx	</fx>
+	<property>	emissivePower
+		<Float>	0.700000	</Float>
+	</property>
+	<collisionFlags>	0	</collisionFlags>
+	<property>	ambientOcclusionMap
+		<Texture>	PnFMods/ARP_Hyuga_Mod/JSB526_Ise/ship/JSB048_Ise_Hybrid_1945_Hull_ao.dds	</Texture>
+	</property>
+	<property>	detailMap
+		<Texture>	PnFMods/ARP_Hyuga_Mod/JSB526_Ise/ship/ship_atlas_detail.dds	</Texture>
+	</property>
+	<property>	diffuseMap
+		<Texture>	PnFMods/ARP_Hyuga_Mod/JSB526_Ise/ship/JSB048_Ise_Hybrid_1945_Hull_a.dds	</Texture>
+	</property>
+	<property>	metallicGlossMap
+		<Texture>	PnFMods/ARP_Hyuga_Mod/JSB526_Ise/ship/JSB048_Ise_Hybrid_1945_Hull_mg.dds	</Texture>
+	</property>
+	<property>	normalMap
+		<Texture>	PnFMods/ARP_Hyuga_Mod/JSB526_Ise/ship/JSB048_Ise_Hybrid_1945_Hull_n.dds	</Texture>
+	</property>
+	<property>	g_detailAlbedoInfluence
+		<Float>	0.6000	</Float>
+	</property>
+	<property>	g_detailFadeDistance
+		<Float>	5.0000	</Float>
+	</property>
+	<property>	g_detailGlossInfluence
+		<Float>	1.0000	</Float>
+	</property>
+	<property>	g_detailNormalInfluence
+		<Float>	0.4000	</Float>
+	</property>
+	<property>	g_detailScaleU
+		<Float>	32.0000	</Float>
+	</property>
+	<property>	g_detailScaleV
+		<Float>	32.0000	</Float>
+	</property>
+</JSB048_Ise_Hybrid_1945_Hull.mfm>

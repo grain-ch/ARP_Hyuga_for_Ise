@@ -1,0 +1,7 @@
+<JGM191_360mm_45_type_41_dead_lod1.model>
+	<castsShadow>	true	</castsShadow>
+	<parent>	PnFMods/ARP_Hyuga_Mod/JSB526_Ise/gun/lods/JGM191_360mm_45_type_41_dead_lod2	</parent>
+	<extent>	12.0000	</extent>
+	<nodefullVisual>	PnFMods/ARP_Hyuga_Mod/JSB526_Ise/gun/lods/JGM191_360mm_45_type_41_dead_lod1	</nodefullVisual>
+	<metaData>	Wargaming | Lesta Studio	</metaData>
+</JGM191_360mm_45_type_41_dead_lod1.model>
