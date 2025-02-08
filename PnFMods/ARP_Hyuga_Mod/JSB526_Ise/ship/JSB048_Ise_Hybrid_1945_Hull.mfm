@@ -1,4 +1,5 @@
 <JSB048_Ise_Hybrid_1945_Hull.mfm>
+	<!--<fx>	shaders/materials/pbs/ship_material.fx	</fx>-->
 	<fx>	shaders/materials/pbs/ship_emissive_material.fx	</fx>
 	<property>	emissivePower
 		<Float>	0.700000	</Float>
@@ -8,7 +9,7 @@
 		<Texture>	PnFMods/ARP_Hyuga_Mod/JSB526_Ise/ship/JSB048_Ise_Hybrid_1945_Hull_ao.dds	</Texture>
 	</property>
 	<property>	detailMap
-		<Texture>	PnFMods/ARP_Hyuga_Mod/JSB526_Ise/ship/ship_atlas_detail.dds	</Texture>
+		<Texture>	content/gameplay/common/textures/ship_atlas_detail.dds	</Texture>
 	</property>
 	<property>	diffuseMap
 		<Texture>	PnFMods/ARP_Hyuga_Mod/JSB526_Ise/ship/JSB048_Ise_Hybrid_1945_Hull_a.dds	</Texture>

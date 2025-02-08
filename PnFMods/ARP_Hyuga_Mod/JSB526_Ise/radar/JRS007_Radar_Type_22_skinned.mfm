@@ -5,7 +5,7 @@
 		<Texture>	PnFMods/ARP_Hyuga_Mod/JSB526_Ise/radar/default_ao.dds	</Texture>
 	</property>
 	<property>	detailMap
-		<Texture>	PnFMods/ARP_Hyuga_Mod/JSB526_Ise/ship/ship_atlas_detail.dds	</Texture>
+		<Texture>	content/gameplay/common/textures/ship_atlas_detail.dds	</Texture>
 	</property>
 	<property>	diffuseMap
 		<Texture>	PnFMods/ARP_Hyuga_Mod/JSB526_Ise/radar/JRS007_Radar_Type_22_a.dds	</Texture>

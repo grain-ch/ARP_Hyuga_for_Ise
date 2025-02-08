@@ -1,7 +1,6 @@
 <JGM191_360mm_45_type_41.model>
-	<castsShadow>	true	</castsShadow>
-	<parent>	PnFMods/ARP_Hyuga_Mod/JSB526_Ise/gun/lods/JGM191_360mm_45_type_41_lod1	</parent>
-	<extent>	4.0000	</extent>
-	<nodefullVisual>	PnFMods/ARP_Hyuga_Mod/JSB526_Ise/gun/JGM191_360mm_45_type_41	</nodefullVisual>
-	<metaData>	Wargaming | Lesta Studio	</metaData>
+	<visual>	PnFMods/ARP_Hyuga_Mod/JSB526_Ise/gun/JGM191_360mm_45_type_41.visual	</visual>
+	<animations />
+	<dyes />
+	<metaData>	Wargaming.net	</metaData>
 </JGM191_360mm_45_type_41.model>

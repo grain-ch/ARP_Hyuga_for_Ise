@@ -1,7 +1,6 @@
 <JD056_MachineGun_Control_Position.model>
-	<castsShadow>	false	</castsShadow>
-	<parent>	PnFMods/ARP_Hyuga_Mod/JSB526_Ise/director/lods/JD056_MachineGun_Control_Position_lod1	</parent>
-	<extent>	1.0000	</extent>
-	<nodefullVisual>	PnFMods/ARP_Hyuga_Mod/JSB526_Ise/director/JD056_MachineGun_Control_Position	</nodefullVisual>
-	<metaData>	Wargaming | Lesta Studio	</metaData>
+	<visual>	PnFMods/ARP_Hyuga_Mod/JSB526_Ise/director/JD056_MachineGun_Control_Position.visual	</visual>
+	<animations />
+	<dyes />
+	<metaData>	Wargaming.net	</metaData>
 </JD056_MachineGun_Control_Position.model>
